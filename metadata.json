@@ -1,0 +1,6 @@
+{
+  "name": "Fashion Consultant",
+  "description": "Premium, minimalist AI fashion consultant helping users build an elegant, classic capsule wardrobe of timeless style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
