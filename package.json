@@ -1,0 +1,12 @@
+{
+  "name":"kadam-creation",
+  "private":true,
+  "dependencies":{
+    "next":"15",
+    "react":"19",
+    "react-dom":"19",
+    "@splinetool/react-spline":"latest",
+    "lucide-react":"latest",
+    "framer-motion":"latest"
+  }
+}
